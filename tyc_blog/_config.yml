@@ -5,10 +5,10 @@
 # Site
 title: "唐游超的个人博客"
 subtitle: ""
-description: "个人博客,唐游超的个人博客"
+description: "光而不耀，与光同尘。<br>记录岁月长河中留下的各种痕迹。"
 keywords: "个人博客,唐游超的个人博客,Tycalwayslove"
 author: 唐游超
-language: zh-CN
+language: zh-Hans
 timezone: ""
 
 # URL
@@ -93,7 +93,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: next
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
